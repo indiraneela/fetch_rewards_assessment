@@ -1,2 +1,2 @@
 # fetch_rewards_assessment
-Analysis for FetchRewards assessment
+Please see "DataAnalysis.ipynb" in the repository for the exercise
